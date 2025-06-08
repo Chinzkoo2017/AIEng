@@ -1,0 +1,1278 @@
+[
+    {
+      "question": "Хиймэл оюун ухааныг хамгийн анх хэн нэрлэсэн бэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Алан Тюринг"
+        },
+        {
+          "label": "B",
+          "text": "Жон МакКарти"
+        },
+        {
+          "label": "C",
+          "text": "Марвин Минский"
+        },
+        {
+          "label": "D",
+          "text": "Илон Маск"
+        }
+      ],
+      "answerKey": "B"
+    },
+    {
+      "question": "Нейроны сүлжээний үндсэн бүрэлдэхүүн хэсэг юу вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Нейрон"
+        },
+        {
+          "label": "B",
+          "text": "Алгоритм"
+        },
+        {
+          "label": "C",
+          "text": "Сервер"
+        },
+        {
+          "label": "D",
+          "text": "Хард диск"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "Хиймэл оюун ухааны аль салбар нь хэлний загваруудыг судалдаг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Компьютерийн хараа"
+        },
+        {
+          "label": "B",
+          "text": "Хиймэл нейроны сүлжээ"
+        },
+        {
+          "label": "C",
+          "text": "Байгалийн хэлний боловсруулалт"
+        },
+        {
+          "label": "D",
+          "text": "Роботын техник"
+        }
+      ],
+      "answerKey": "C"
+    },
+    {
+      "question": "AI-д 'overfitting' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Хэт их өгөгдөл хэрэглэх"
+        },
+        {
+          "label": "B",
+          "text": "Сургалтын өгөгдөлд хэт тааруулах"
+        },
+        {
+          "label": "C",
+          "text": "Хэт бага өгөгдөл хэрэглэх"
+        },
+        {
+          "label": "D",
+          "text": "Загварыг хэт энгийн болгох"
+        }
+      ],
+      "answerKey": "B"
+    },
+    {
+      "question": "AI-д зориулсан алдартай програмчлалын хэл юу вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Java"
+        },
+        {
+          "label": "B",
+          "text": "Python"
+        },
+        {
+          "label": "C",
+          "text": "C++"
+        },
+        {
+          "label": "D",
+          "text": "Ruby"
+        }
+      ],
+      "answerKey": "B"
+    },
+    {
+      "question": "Хиймэл оюун ухааны хамгийн том хэрэглээний талбар юу вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Тоглоомын хөгжүүлэлт"
+        },
+        {
+          "label": "B",
+          "text": "Эрүүл мэндийн оношлогоо"
+        },
+        {
+          "label": "C",
+          "text": "График дизайн"
+        },
+        {
+          "label": "D",
+          "text": "Маркетинг"
+        }
+      ],
+      "answerKey": "B"
+    },
+    {
+      "question": "Тюрингийн тест гэж юу вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Машины оюун ухааныг шалгах тест"
+        },
+        {
+          "label": "B",
+          "text": "Програмчлалын хурдыг шалгах тест"
+        },
+        {
+          "label": "C",
+          "text": "Мэдээллийн аюулгүй байдлын тест"
+        },
+        {
+          "label": "D",
+          "text": "Хэрэглэгчийн интерфэйсийн тест"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "Дэлхийн хамгийн алдартай AI загваруудын нэг юу вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Grok"
+        },
+        {
+          "label": "B",
+          "text": "Windows"
+        },
+        {
+          "label": "C",
+          "text": "Linux"
+        },
+        {
+          "label": "D",
+          "text": "Android"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'deep learning' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Гүний уурхайн технологи"
+        },
+        {
+          "label": "B",
+          "text": "Олон давхаргат нейроны сүлжээ"
+        },
+        {
+          "label": "C",
+          "text": "Хялбаршуулсан алгоритм"
+        },
+        {
+          "label": "D",
+          "text": "Цөөн өгөгдөлтэй сургалт"
+        }
+      ],
+      "answerKey": "B"
+    },
+    {
+      "question": "AI-д зориулсан алдартай framework юу вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "TensorFlow"
+        },
+        {
+          "label": "B",
+          "text": "Django"
+        },
+        {
+          "label": "C",
+          "text": "Flask"
+        },
+        {
+          "label": "D",
+          "text": "Spring"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-ийн этикийн гол асуудал юу вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Хурдны хязгаар"
+        },
+        {
+          "label": "B",
+          "text": "Хувийн мэдээллийн хамгаалалт"
+        },
+        {
+          "label": "C",
+          "text": "Графикийн дизайн"
+        },
+        {
+          "label": "D",
+          "text": "Програмчлалын хэл"
+        }
+      ],
+      "answerKey": "B"
+    },
+    {
+      "question": "Хиймэл оюун ухааны хамгийн анхны хэрэглээ юу байсан бэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Шатрын тоглоом"
+        },
+        {
+          "label": "B",
+          "text": "Зургийн боловсруулалт"
+        },
+        {
+          "label": "C",
+          "text": "Хэлний орчуулга"
+        },
+        {
+          "label": "D",
+          "text": "Роботын удирдлага"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'supervised learning' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Хяналтгүй сургалт"
+        },
+        {
+          "label": "B",
+          "text": "Хяналттай сургалт"
+        },
+        {
+          "label": "C",
+          "text": "Хагас хяналттай сургалт"
+        },
+        {
+          "label": "D",
+          "text": "Автомат сургалт"
+        }
+      ],
+      "answerKey": "B"
+    },
+    {
+      "question": "AI-ийн аль хэсэг нь зургийг танихад ашиглагддаг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Convolutional Neural Network"
+        },
+        {
+          "label": "B",
+          "text": "Recurrent Neural Network"
+        },
+        {
+          "label": "C",
+          "text": "Linear Regression"
+        },
+        {
+          "label": "D",
+          "text": "Decision Tree"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'reinforcement learning' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Шагналд суурилсан сургалт"
+        },
+        {
+          "label": "B",
+          "text": "Хяналттай сургалт"
+        },
+        {
+          "label": "C",
+          "text": "Хяналтгүй сургалт"
+        },
+        {
+          "label": "D",
+          "text": "Хагас хяналттай сургалт"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "Хиймэл оюун ухааны хамгийн алдартай хэрэглээний нэг юу вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Хувцасны дизайн"
+        },
+        {
+          "label": "B",
+          "text": "Автономит машин"
+        },
+        {
+          "label": "C",
+          "text": "Гэрийн тавилга"
+        },
+        {
+          "label": "D",
+          "text": "Хоолны жор"
+        }
+      ],
+      "answerKey": "B"
+    },
+    {
+      "question": "AI-д зориулсан өгөгдлийн төрөл юу вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Structured Data"
+        },
+        {
+          "label": "B",
+          "text": "Hardware Data"
+        },
+        {
+          "label": "C",
+          "text": "Software Data"
+        },
+        {
+          "label": "D",
+          "text": "Firmware Data"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'bias' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Загварын хазайлт"
+        },
+        {
+          "label": "B",
+          "text": "Хурдны хязгаар"
+        },
+        {
+          "label": "C",
+          "text": "Өгөгдлийн хэмжээ"
+        },
+        {
+          "label": "D",
+          "text": "Алгоритмын хурд"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "Хиймэл оюун ухааны хамгийн том компаниудын нэг юу вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "xAI"
+        },
+        {
+          "label": "B",
+          "text": "Apple"
+        },
+        {
+          "label": "C",
+          "text": "Samsung"
+        },
+        {
+          "label": "D",
+          "text": "Sony"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'natural language processing' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Зургийн боловсруулалт"
+        },
+        {
+          "label": "B",
+          "text": "Хэлний боловсруулалт"
+        },
+        {
+          "label": "C",
+          "text": "Видео боловсруулалт"
+        },
+        {
+          "label": "D",
+          "text": "Аудио боловсруулалт"
+        }
+      ],
+      "answerKey": "B"
+    },
+    {
+      "question": "AI-д 'gradient descent' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Хурдны уналт"
+        },
+        {
+          "label": "B",
+          "text": "Оновчлолын алгоритм"
+        },
+        {
+          "label": "C",
+          "text": "Өгөгдлийн хуваарилалт"
+        },
+        {
+          "label": "D",
+          "text": "Загварын хэмжээ"
+        }
+      ],
+      "answerKey": "B"
+    },
+    {
+      "question": "AI-д зориулсан алдартай хэрэгсэл юу вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PyTorch"
+        },
+        {
+          "label": "B",
+          "text": "Photoshop"
+        },
+        {
+          "label": "C",
+          "text": "Illustrator"
+        },
+        {
+          "label": "D",
+          "text": "Blender"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'computer vision' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Зургийн боловсруулалт"
+        },
+        {
+          "label": "B",
+          "text": "Хэлний боловсруулалт"
+        },
+        {
+          "label": "C",
+          "text": "Аудио боловсруулалт"
+        },
+        {
+          "label": "D",
+          "text": "Текстийн боловсруулалт"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'unsupervised learning' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Хяналттай сургалт"
+        },
+        {
+          "label": "B",
+          "text": "Хяналтгүй сургалт"
+        },
+        {
+          "label": "C",
+          "text": "Шагналд суурилсан сургалт"
+        },
+        {
+          "label": "D",
+          "text": "Хагас хяналттай сургалт"
+        }
+      ],
+      "answerKey": "B"
+    },
+    {
+      "question": "AI-д 'generative AI' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Шинэ өгөгдөл үүсгэх"
+        },
+        {
+          "label": "B",
+          "text": "Өгөгдөл устгах"
+        },
+        {
+          "label": "C",
+          "text": "Өгөгдөл хадгалах"
+        },
+        {
+          "label": "D",
+          "text": "Өгөгдөл хуулах"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'chatbot' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Харилцагчтай харилцах програм"
+        },
+        {
+          "label": "B",
+          "text": "Зургийн боловсруулагч"
+        },
+        {
+          "label": "C",
+          "text": "Видео засварлагч"
+        },
+        {
+          "label": "D",
+          "text": "Аудио боловсруулагч"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'data augmentation' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Өгөгдлийн хэмжээг нэмэгдүүлэх"
+        },
+        {
+          "label": "B",
+          "text": "Өгөгдлийн хэмжээг багасгах"
+        },
+        {
+          "label": "C",
+          "text": "Өгөгдлийн хадгалалт"
+        },
+        {
+          "label": "D",
+          "text": "Өгөгдлийн устгал"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'feature extraction' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Онцлогийг ялгах"
+        },
+        {
+          "label": "B",
+          "text": "Онцлогийг устгах"
+        },
+        {
+          "label": "C",
+          "text": "Онцлогийг хадгалах"
+        },
+        {
+          "label": "D",
+          "text": "Онцлогийг хуулах"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'transfer learning' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Урьдчилан сургасан загварыг ашиглах"
+        },
+        {
+          "label": "B",
+          "text": "Шинэ загвар үүсгэх"
+        },
+        {
+          "label": "C",
+          "text": "Загварыг устгах"
+        },
+        {
+          "label": "D",
+          "text": "Загварыг хадгалах"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'machine learning' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Машины сургалт"
+        },
+        {
+          "label": "B",
+          "text": "Машины устгал"
+        },
+        {
+          "label": "C",
+          "text": "Машины хадгалалт"
+        },
+        {
+          "label": "D",
+          "text": "Машины хуулбар"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'neural network' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Хиймэл нейроны сүлжээ"
+        },
+        {
+          "label": "B",
+          "text": "Хиймэл хадгалалтын сүлжээ"
+        },
+        {
+          "label": "C",
+          "text": "Хиймэл устгалын сүлжээ"
+        },
+        {
+          "label": "D",
+          "text": "Хиймэл хуулбарын сүлжээ"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'backpropagation' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Алдааг буцаан тархаах"
+        },
+        {
+          "label": "B",
+          "text": "Алдааг хадгалах"
+        },
+        {
+          "label": "C",
+          "text": "Алдааг устгах"
+        },
+        {
+          "label": "D",
+          "text": "Алдааг хуулах"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'hyperparameter' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Загварын тохиргооны утга"
+        },
+        {
+          "label": "B",
+          "text": "Загварын хурдны утга"
+        },
+        {
+          "label": "C",
+          "text": "Загварын хэмжээний утга"
+        },
+        {
+          "label": "D",
+          "text": "Загварын өгөгдлийн утга"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'regularization' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Загварыг хэт тааруулахаас сэргийлэх"
+        },
+        {
+          "label": "B",
+          "text": "Загварыг хэт энгийн болгох"
+        },
+        {
+          "label": "C",
+          "text": "Загварыг хэт хурдан болгох"
+        },
+        {
+          "label": "D",
+          "text": "Загварыг хэт том болгох"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'clustering' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Өгөгдлийг бүлэглэх"
+        },
+        {
+          "label": "B",
+          "text": "Өгөгдлийг устгах"
+        },
+        {
+          "label": "C",
+          "text": "Өгөгдлийг хадгалах"
+        },
+        {
+          "label": "D",
+          "text": "Өгөгдлийг хуулах"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'classification' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Өгөгдлийг ангилалд хуваах"
+        },
+        {
+          "label": "B",
+          "text": "Өгөгдлийг устгах"
+        },
+        {
+          "label": "C",
+          "text": "Өгөгдлийг хадгалах"
+        },
+        {
+          "label": "D",
+          "text": "Өгөгдлийг хуулах"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'regression' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Тоон утгыг таамаглах"
+        },
+        {
+          "label": "B",
+          "text": "Өгөгдлийг устгах"
+        },
+        {
+          "label": "C",
+          "text": "Өгөгдлийг хадгалах"
+        },
+        {
+          "label": "D",
+          "text": "Өгөгдлийг хуулах"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'GAN' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Generative Adversarial Network"
+        },
+        {
+          "label": "B",
+          "text": "Global Area Network"
+        },
+        {
+          "label": "C",
+          "text": "General Algorithm Network"
+        },
+        {
+          "label": "D",
+          "text": "Global Access Network"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'RNN' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Recurrent Neural Network"
+        },
+        {
+          "label": "B",
+          "text": "Random Neural Network"
+        },
+        {
+          "label": "C",
+          "text": "Regular Neural Network"
+        },
+        {
+          "label": "D",
+          "text": "Restricted Neural Network"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'CNN' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Convolutional Neural Network"
+        },
+        {
+          "label": "B",
+          "text": "Connected Neural Network"
+        },
+        {
+          "label": "C",
+          "text": "Complex Neural Network"
+        },
+        {
+          "label": "D",
+          "text": "Continuous Neural Network"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'LSTM' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Long Short-Term Memory"
+        },
+        {
+          "label": "B",
+          "text": "Linear Short-Term Memory"
+        },
+        {
+          "label": "C",
+          "text": "Local Short-Term Memory"
+        },
+        {
+          "label": "D",
+          "text": "Large Short-Term Memory"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'activation function' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Нейроны гаралтыг хянах функц"
+        },
+        {
+          "label": "B",
+          "text": "Нейроны хурдыг хянах функц"
+        },
+        {
+          "label": "C",
+          "text": "Нейроны хэмжээг хянах функц"
+        },
+        {
+          "label": "D",
+          "text": "Нейроны өгөгдлийг хянах функц"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'dropout' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Нейроныг санамсаргүйгээр хасах"
+        },
+        {
+          "label": "B",
+          "text": "Нейроныг хадгалах"
+        },
+        {
+          "label": "C",
+          "text": "Нейроныг хуулах"
+        },
+        {
+          "label": "D",
+          "text": "Нейроныг устгах"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'epoch' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Бүх өгөгдлөөр нэг удаа сурчихах"
+        },
+        {
+          "label": "B",
+          "text": "Бүх өгөгдлийг устгах"
+        },
+        {
+          "label": "C",
+          "text": "Бүх өгөгдлийг хадгалах"
+        },
+        {
+          "label": "D",
+          "text": "Бүх өгөгдлийг хуулах"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'batch size' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Нэг удаад боловсруулах өгөгдлийн хэмжээ"
+        },
+        {
+          "label": "B",
+          "text": "Нэг удаад устгах өгөгдлийн хэмжээ"
+        },
+        {
+          "label": "C",
+          "text": "Нэг удаад хадгалах өгөгдлийн хэмжээ"
+        },
+        {
+          "label": "D",
+          "text": "Нэг удаад хуулах өгөгдлийн хэмжээ"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'loss function' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Алдааг хэмжих функц"
+        },
+        {
+          "label": "B",
+          "text": "Хурдыг хэмжих функц"
+        },
+        {
+          "label": "C",
+          "text": "Хэмжээг хэмжих функц"
+        },
+        {
+          "label": "D",
+          "text": "Өгөгдлийг хэмжих функц"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'optimizer' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Алдааг багасгах алгоритм"
+        },
+        {
+          "label": "B",
+          "text": "Алдааг нэмэгдүүлэх алгоритм"
+        },
+        {
+          "label": "C",
+          "text": "Алдааг хадгалах алгоритм"
+        },
+        {
+          "label": "D",
+          "text": "Алдааг устгах алгоритм"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'precision' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Зөв таамаглалын хувь"
+        },
+        {
+          "label": "B",
+          "text": "Буруу таамаглалын хувь"
+        },
+        {
+          "label": "C",
+          "text": "Хурдны хувь"
+        },
+        {
+          "label": "D",
+          "text": "Хэмжээний хувь"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'recall' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Зөв илрүүлсэн хувь"
+        },
+        {
+          "label": "B",
+          "text": "Буруу илрүүлсэн хувь"
+        },
+        {
+          "label": "C",
+          "text": "Хурдны хувь"
+        },
+        {
+          "label": "D",
+          "text": "Хэмжээний хувь"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'F1 score' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Precision болон Recall-ийн хослол"
+        },
+        {
+          "label": "B",
+          "text": "Precision болон Speed-ийн хослол"
+        },
+        {
+          "label": "C",
+          "text": "Recall болон Size-ийн хослол"
+        },
+        {
+          "label": "D",
+          "text": "Precision болон Size-ийн хослол"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'cross-validation' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Загварыг олон хуваалтаар шалгах"
+        },
+        {
+          "label": "B",
+          "text": "Загварыг устгах"
+        },
+        {
+          "label": "C",
+          "text": "Загварыг хадгалах"
+        },
+        {
+          "label": "D",
+          "text": "Загварыг хуулах"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'ensemble learning' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Олон загварыг хослуулах"
+        },
+        {
+          "label": "B",
+          "text": "Ганц загварыг ашиглах"
+        },
+        {
+          "label": "C",
+          "text": "Загварыг устгах"
+        },
+        {
+          "label": "D",
+          "text": "Загварыг хадгалах"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'random forest' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Олон шийдвэрийн модны хослол"
+        },
+        {
+          "label": "B",
+          "text": "Ганц шийдвэрийн мод"
+        },
+        {
+          "label": "C",
+          "text": "Шийдвэрийн модыг устгах"
+        },
+        {
+          "label": "D",
+          "text": "Шийдвэрийн модыг хадгалах"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'support vector machine' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ангилалын алгоритм"
+        },
+        {
+          "label": "B",
+          "text": "Хурдны алгоритм"
+        },
+        {
+          "label": "C",
+          "text": "Хэмжээний алгоритм"
+        },
+        {
+          "label": "D",
+          "text": "Өгөгдлийн алгоритм"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'k-means clustering' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Өгөгдлийг k бүлэгт хуваах"
+        },
+        {
+          "label": "B",
+          "text": "Өгөгдлийг устгах"
+        },
+        {
+          "label": "C",
+          "text": "Өгөгдлийг хадгалах"
+        },
+        {
+          "label": "D",
+          "text": "Өгөгдлийг хуулах"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'decision tree' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Шийдвэрийн мод"
+        },
+        {
+          "label": "B",
+          "text": "Шийдвэрийн хурд"
+        },
+        {
+          "label": "C",
+          "text": "Шийдвэрийн хэмжээ"
+        },
+        {
+          "label": "D",
+          "text": "Шийдвэрийн өгөгдөл"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'XGBoost' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gradient Boosting алгоритм"
+        },
+        {
+          "label": "B",
+          "text": "Random Forest алгоритм"
+        },
+        {
+          "label": "C",
+          "text": "Linear Regression алгоритм"
+        },
+        {
+          "label": "D",
+          "text": "K-Means алгоритм"
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "question": "AI-д 'autoencoder' гэдэг нь юуг хэлдэг вэ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Өгөгдлийг шахах загвар"
+        },
+        {
+          "label": "B",
+          "text": "Өгөгдлийг устгах загвар"
+        },
+        {
+          "label": "C",
+          "text": "Өгөгдлийг хадгалах загвар"
+        },
+        {
+          "label": "D",
+          "text": "Өгөгдлийг хуулах загвар"
+        }
+      ],
+      "answerKey": "A"
+    }
+  ]
